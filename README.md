@@ -24,7 +24,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
 [instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/_amainosi-ekekhide-83b2a8363__________
+[linkedin]: https://linkedin.com/in/_amainosi-ekekhide-83b2a8363/
 
 
 <!--
